@@ -15,8 +15,10 @@ Packages used:
 
 ### Demo
 
-[Home Screen](lib/demo/img1.jpg "Home")
-[Product Screen](lib/demo/img2.jpg "Product")
+
+<img src="lib/demo/img1.jpg" alt="My Project GIF" width="250" height="300">
+<img src="lib/demo/img2.jpg" alt="My Project GIF" width="250" height="300">
+
 
 <---------video--------------->
 
