@@ -16,8 +16,8 @@ Packages used:
 ### Demo
 
 
-<img src="lib/demo/img1.jpg" alt="My Project GIF" width="250" height="300">
-<img src="lib/demo/img2.jpg" alt="My Project GIF" width="250" height="300">
+<img src="lib/demo/img1.jpg"  width="250" height="300" alignment=center>
+<img src="lib/demo/img2.jpg"  width="250" height="300">
 
 
 <---------video--------------->
