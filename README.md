@@ -20,4 +20,5 @@ Packages used:
 
 <---------video--------------->
 
-[App](lib/demo/demo.gif "app")
+
+<img src="lib/demo/demo.gif" alt="My Project GIF" width="500" height="600">
