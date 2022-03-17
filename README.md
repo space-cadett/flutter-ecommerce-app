@@ -20,7 +20,7 @@ Packages used:
 <img src="https://user-images.githubusercontent.com/63910744/158862695-debda74e-3e4c-4f59-a0b7-a8e1bde46aa1.png" width=50% height=50%>
 
 
-<---------video--------------->
 
 
-<img src="lib/demo/demo.gif" alt="My Project GIF" width="250" height="500">
+
+<img src="lib/demo/demo.gif" alt="My Project GIF" width=50% height=50%>
