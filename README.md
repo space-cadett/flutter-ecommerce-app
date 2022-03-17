@@ -17,8 +17,8 @@ Packages used:
 
 
 
+<img src="https://user-images.githubusercontent.com/63910744/158862695-debda74e-3e4c-4f59-a0b7-a8e1bde46aa1.png" width="150" height="280">
 
-![3 Mobile Video   Photo Mockups gradient Linkedin Post](https://user-images.githubusercontent.com/63910744/158862695-debda74e-3e4c-4f59-a0b7-a8e1bde46aa1.png)
 
 <---------video--------------->
 
