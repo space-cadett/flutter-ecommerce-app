@@ -21,4 +21,4 @@ Packages used:
 <---------video--------------->
 
 
-<img src="lib/demo/demo.gif" alt="My Project GIF" width="500" height="600">
+<img src="lib/demo/demo.gif" alt="My Project GIF" width="250" height="500">
